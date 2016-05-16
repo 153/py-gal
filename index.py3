@@ -1,3 +1,4 @@
+#!/usr/bin/env python3 
 import cgi, cgitb, os, hashlib
 import time, re
 from PIL import Image, ImageOps
